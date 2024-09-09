@@ -1,0 +1,512 @@
+2024-08-23 13:17:12 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 13:17:12 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 13:17:12 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 150886 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 13:17:12 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 13:17:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 13:17:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interface.
+2024-08-23 13:17:12 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 13:17:12 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 13:17:12 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 13:17:12 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 13:17:12 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 13:17:12 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 699 ms
+2024-08-23 13:17:12 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 13:17:12 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 13:17:12 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 13:17:13 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 13:17:13 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 13:17:13 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@342723a3
+2024-08-23 13:17:13 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 13:17:13 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 13:17:13 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 13:17:14 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 13:17:14 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 13:17:14 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 13:17:14 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 2.765 seconds (process running for 3.036)
+2024-08-23 13:17:28 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 13:17:28 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 13:17:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 14:34:35 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 14:34:35 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 14:34:35 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 210032 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 14:34:35 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 14:34:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 14:34:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interface.
+2024-08-23 14:34:36 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 14:34:36 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 14:34:36 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 14:34:36 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 14:34:37 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 14:34:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1125 ms
+2024-08-23 14:34:37 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 14:34:37 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 14:34:37 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 14:34:37 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 14:34:37 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 14:34:38 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@342723a3
+2024-08-23 14:34:38 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 14:34:39 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 14:34:39 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 14:34:40 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 14:34:41 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 14:34:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 14:34:41 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 6.357 seconds (process running for 6.774)
+2024-08-23 14:40:28 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 14:40:28 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 14:40:28 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 14:40:29 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 14:40:29 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 14:40:29 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 214951 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 14:40:29 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 14:40:30 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 14:40:30 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interface.
+2024-08-23 14:40:30 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 14:40:30 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 14:40:30 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 14:40:30 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 14:40:30 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 14:40:30 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 905 ms
+2024-08-23 14:40:30 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 14:40:30 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 14:40:30 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 14:40:31 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 14:40:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 14:40:31 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@342723a3
+2024-08-23 14:40:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 14:40:32 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 14:40:32 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 14:40:32 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 14:40:33 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 14:40:33 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 14:40:33 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 3.687 seconds (process running for 4.031)
+2024-08-23 14:41:34 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-23 14:41:34 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-08-23 14:41:34 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-08-23 14:41:56 INFO  c.e.p.c.UserProfileController - Successfully retrieved UserProfile list with details: ApiResponseWrapper(status=200, message=success, data=[com.example.projectdemo2.dto.UserProfileDTO@4d917ac5])
+2024-08-23 14:44:12 INFO  c.e.p.c.UserProfileController - Successfully retrieved UserProfile list with details: ApiResponseWrapper(status=200, message=success, data=[com.example.projectdemo2.dto.UserProfileDTO@58d534aa])
+2024-08-23 14:46:50 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 14:46:50 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 14:46:50 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 15:14:35 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 15:14:35 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 15:14:35 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 239529 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 15:14:35 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 15:14:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 15:14:36 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+2024-08-23 15:14:36 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 15:14:36 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:14:36 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 15:14:36 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 15:14:36 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 15:14:36 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1012 ms
+2024-08-23 15:14:36 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 15:14:36 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 15:14:37 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 15:14:37 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 15:14:37 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 15:14:37 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4cc4d454
+2024-08-23 15:14:37 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 15:14:38 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 15:14:38 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:14:38 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 15:14:39 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:14:39 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 15:14:39 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 4.521 seconds (process running for 4.828)
+2024-08-23 15:17:18 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-23 15:17:18 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-08-23 15:17:18 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-08-23 15:18:10 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:18:10 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 15:18:10 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 15:40:14 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 15:40:14 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 15:40:14 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 257786 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 15:40:14 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 15:40:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 15:40:15 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interface.
+2024-08-23 15:40:15 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 15:40:15 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:40:15 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 15:40:15 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 15:40:15 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 15:40:15 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 769 ms
+2024-08-23 15:40:15 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 15:40:15 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 15:40:15 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 15:40:15 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 15:40:15 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 15:40:15 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4db6348b
+2024-08-23 15:40:15 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 15:40:16 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 15:40:16 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:40:16 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 15:40:17 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:40:17 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 15:40:17 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 2.931 seconds (process running for 3.415)
+2024-08-23 15:40:59 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-23 15:40:59 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-08-23 15:40:59 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-08-23 15:45:16 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:45:16 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 15:45:16 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 15:46:31 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 15:46:31 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 15:46:31 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 262080 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 15:46:31 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 15:46:31 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 15:46:31 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interface.
+2024-08-23 15:46:32 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 15:46:32 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:46:32 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 15:46:32 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 15:46:32 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 15:46:32 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 671 ms
+2024-08-23 15:46:32 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 15:46:32 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 15:46:32 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 15:46:32 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 15:46:32 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 15:46:32 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@342723a3
+2024-08-23 15:46:32 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 15:46:33 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 15:46:33 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:46:33 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 15:46:34 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 15:46:34 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 15:46:34 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 3.81 seconds (process running for 4.116)
+2024-08-23 15:46:48 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-23 15:46:48 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-08-23 15:46:48 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-08-23 15:46:48 INFO  c.e.p.c.i.InternalUserProfileController - Received request to save UserProfile with details: com.example.projectdemo2.dto.UserProfileDTO@4fa18a53
+2024-08-23 15:46:48 INFO  c.e.p.c.i.InternalUserProfileController - UserProfile saved successfully with details: com.example.projectdemo2.dto.UserProfileDTO@4fa18a53
+2024-08-23 15:47:29 INFO  c.e.p.c.UserProfileController - Successfully retrieved UserProfile list with details: ApiResponseWrapper(status=200, message=success, data=[com.example.projectdemo2.dto.UserProfileDTO@133c475c, com.example.projectdemo2.dto.UserProfileDTO@183abe49])
+2024-08-23 15:47:49 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 15:47:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 15:47:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-23 16:36:27 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-23 16:36:27 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-23 16:36:27 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 295917 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-23 16:36:27 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-23 16:36:28 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-23 16:36:28 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47 ms. Found 1 JPA repository interface.
+2024-08-23 16:36:28 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-23 16:36:28 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-23 16:36:28 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-23 16:36:28 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-23 16:36:28 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-23 16:36:28 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1014 ms
+2024-08-23 16:36:28 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-23 16:36:28 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-23 16:36:28 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-23 16:36:28 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-23 16:36:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-23 16:36:29 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ba97962
+2024-08-23 16:36:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-23 16:36:30 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-23 16:36:30 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 16:36:30 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-23 16:36:31 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-23 16:36:31 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-23 16:36:31 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 4.254 seconds (process running for 4.479)
+2024-08-23 16:37:43 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-23 16:37:43 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-23 16:37:43 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 10:19:04 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 10:19:04 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 10:19:04 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 64204 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 10:19:04 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 10:19:05 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 10:19:05 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interface.
+2024-08-26 10:19:05 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 10:19:05 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:19:05 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 10:19:05 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 10:19:05 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 10:19:05 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 770 ms
+2024-08-26 10:19:05 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 10:19:05 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 10:19:05 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 10:19:05 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 10:19:05 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 10:19:06 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@f3876ef
+2024-08-26 10:19:06 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 10:19:06 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 10:19:06 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:19:07 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 10:19:07 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:19:07 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 10:19:07 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 3.143 seconds (process running for 3.41)
+2024-08-26 10:32:06 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:32:06 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 10:32:06 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 10:32:47 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 10:32:47 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 10:32:47 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 78071 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 10:32:47 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 10:32:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 10:32:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 43 ms. Found 1 JPA repository interface.
+2024-08-26 10:32:48 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 10:32:48 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:32:48 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 10:32:48 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 10:32:48 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 10:32:48 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 713 ms
+2024-08-26 10:32:48 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 10:32:48 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 10:32:48 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 10:32:48 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 10:32:48 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 10:32:48 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2493eec6
+2024-08-26 10:32:48 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 10:32:49 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 10:32:49 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:32:49 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 10:32:49 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:32:49 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 10:32:49 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 2.776 seconds (process running for 3.034)
+2024-08-26 10:37:19 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:37:19 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 10:37:19 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 10:37:43 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 10:37:43 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 10:37:43 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 82112 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 10:37:43 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 10:37:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 10:37:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40 ms. Found 1 JPA repository interface.
+2024-08-26 10:37:44 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 10:37:44 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:37:44 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 10:37:44 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 10:37:44 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 10:37:44 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 647 ms
+2024-08-26 10:37:44 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 10:37:44 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 10:37:44 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 10:37:44 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 10:37:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 10:37:44 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b751cb1
+2024-08-26 10:37:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 10:37:45 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 10:37:45 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:37:45 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 10:37:45 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:37:45 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 10:37:45 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 2.53 seconds (process running for 2.753)
+2024-08-26 10:39:58 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:39:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 10:39:59 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 10:43:29 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 10:43:29 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 10:43:29 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 86477 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 10:43:29 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 10:43:29 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 10:43:29 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interface.
+2024-08-26 10:43:30 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 10:43:30 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:43:30 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 10:43:30 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 10:43:30 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 10:43:30 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 860 ms
+2024-08-26 10:43:30 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 10:43:30 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 10:43:30 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 10:43:30 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 10:43:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 10:43:30 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2493eec6
+2024-08-26 10:43:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 10:43:31 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 10:43:31 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:43:31 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 10:43:31 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:43:31 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 10:43:31 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 2.93 seconds (process running for 3.122)
+2024-08-26 10:46:09 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:46:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 10:46:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 10:54:28 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 10:54:28 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 10:54:28 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 95038 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 10:54:28 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 10:54:29 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 10:54:29 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interface.
+2024-08-26 10:54:30 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 10:54:30 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:54:30 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 10:54:30 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 10:54:30 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 10:54:30 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1442 ms
+2024-08-26 10:54:30 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 10:54:30 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 10:54:30 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 10:54:31 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 10:54:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 10:54:31 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c58d7be
+2024-08-26 10:54:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 10:54:31 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 10:54:31 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 10:54:32 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 10:54:32 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 10:54:32 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 10:54:32 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 4.149 seconds (process running for 4.415)
+2024-08-26 11:01:02 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 11:01:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 11:01:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 11:01:09 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 11:01:09 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 11:01:09 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 106840 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 11:01:09 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 11:01:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 11:01:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interface.
+2024-08-26 11:01:11 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 11:01:11 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 11:01:11 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 11:01:11 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 11:01:11 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 11:01:11 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1222 ms
+2024-08-26 11:01:11 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 11:01:11 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 11:01:11 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 11:01:11 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 11:01:11 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 11:01:11 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f48fa72
+2024-08-26 11:01:11 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 11:01:12 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 11:01:12 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 11:01:12 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 11:01:13 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 11:01:13 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 11:01:13 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 4.014 seconds (process running for 4.272)
+2024-08-26 11:21:45 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 11:21:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 11:21:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 13:49:05 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 13:49:05 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 13:49:05 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 180977 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 13:49:05 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 13:49:06 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 13:49:06 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interface.
+2024-08-26 13:49:06 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 13:49:06 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 13:49:06 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 13:49:06 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 13:49:06 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 13:49:06 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1064 ms
+2024-08-26 13:49:06 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 13:49:06 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 13:49:06 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 13:49:07 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 13:49:07 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 13:49:07 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f48fa72
+2024-08-26 13:49:07 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 13:49:08 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 13:49:08 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 13:49:08 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 13:49:08 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 13:49:08 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 13:49:08 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 3.566 seconds (process running for 3.794)
+2024-08-26 13:51:21 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 13:51:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 13:51:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-08-26 14:01:25 INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - 
+
+ :: Dubbo Spring Boot (v3.0.5) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.5) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+2024-08-26 14:01:25 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-08-26 14:01:25 INFO  c.e.p.Projectdemo2Application - Starting Projectdemo2Application using Java 22.0.2 with PID 190122 (/home/admin-klb/Documents/microservice-parent/projectdemo2/bin/main started by admin-klb in /home/admin-klb/Documents/microservice-parent)
+2024-08-26 14:01:25 INFO  c.e.p.Projectdemo2Application - No active profile set, falling back to 1 default profile: "default"
+2024-08-26 14:01:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-26 14:01:25 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interface.
+2024-08-26 14:01:26 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7070 (http)
+2024-08-26 14:01:26 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7070"]
+2024-08-26 14:01:26 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-26 14:01:26 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26 14:01:26 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-26 14:01:26 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 845 ms
+2024-08-26 14:01:26 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-26 14:01:26 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-26 14:01:26 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-08-26 14:01:26 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-26 14:01:26 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-08-26 14:01:26 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ba97962
+2024-08-26 14:01:26 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-08-26 14:01:27 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-26 14:01:27 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 14:01:27 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-08-26 14:01:28 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7070"]
+2024-08-26 14:01:28 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7070 (http) with context path '/'
+2024-08-26 14:01:28 INFO  c.e.p.Projectdemo2Application - Started Projectdemo2Application in 3.194 seconds (process running for 3.554)
+2024-08-26 14:01:31 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-26 14:01:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-08-26 14:01:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

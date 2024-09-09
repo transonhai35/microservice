@@ -1,0 +1,33 @@
+server: 
+    port: 7070
+
+spring:
+    application:
+        name: projectdemo2
+
+    datasource:
+        url: jdbc:mysql://localhost:3307/product
+        username: root_product
+        password: 123456
+        driver-class-name: com.mysql.cj.jdbc.Driver
+
+    jpa:
+        open-in-view: false
+        hibernate: 
+            ddl-auto: update
+
+    neo4j:
+        uri: bolt://localhost7687
+        authentication: 
+            username: neo4j
+            password: 12345678
+
+logging:
+  level:
+    '[org.springframework.web.filter.CommonsRequestLoggingFilter]': DEBUG
+    '[io.github.resilience4j.circuitbreaker]': DEBUG
+    '[io.github.resilience4j.retry]': DEBUG
+    '[io.github.resilience4j.ratelimiter]': DEBUG
+    '[io.github.resilience4j.bulkhead]': DEBUG
+  file:
+    name: logs/access_log.log

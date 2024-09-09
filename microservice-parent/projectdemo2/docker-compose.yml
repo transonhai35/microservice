@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql_product
+    restart: always
+    environment:
+      MYSQL_DATABASE: product
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_USER: root_product
+      MYSQL_PASSWORD: 123456
+    volumes:
+      - mysql_data:/var/lib/mysql
+    ports:
+      - '3307:3306'
+    networks:
+      - mysql_network
+
+volumes:
+  mysql_data:
+
+networks:
+  mysql_network:
+  kafka_network:
